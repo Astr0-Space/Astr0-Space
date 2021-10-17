@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astr0Fix But you can call me Astr0
 - 👀 I’m interested in Design, Aerospace, Technology, 3D Printing and Repair
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Microbit or (very) Simple Python Projects
+- 🌱 I’m currently learning Python, HTML and CSS
+- 💞️ I’m looking to collaborate on Microbit Projects
 
 
 <!---
